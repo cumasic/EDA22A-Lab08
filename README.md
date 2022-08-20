@@ -121,7 +121,8 @@
             <td>
             <p>-Proyectos de tecnología con arduino, 2022. Manejo de ramas de Git, en vs code . (branch). [video] Available at: https://www.youtube.com/watch?v=k8UlMFtNDpE.</p>
             <p>-Weiss M., Data Structures & Problem Solving Using Java, 2010, Addison-Wesley.</p>
-            <p>-https://www.cpp.edu/~ftang/courses/CS240/lectures/hashing.html<br></p>
+            <p>-Escuela de Pedagogía en Educación Matemática, Marcelino Álvarez, et.al., http://repobib.ubiobio.cl/jspui/bitstream/123456789/1953/3/Alvarez_Nunez_Marcelino.pdf</p>
+            <p>-http://www.oia.unsam.edu.ar/wp-content/uploads/2017/11/dijkstra-prim.pdf</p>
             </td>
         </tr>
     </tbody>
