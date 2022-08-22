@@ -77,13 +77,13 @@
                 a) Dibuje el grafo definido por las siguientes palabras: words cords corps coops crops drops drips grips gripe grape graph<br>
                 b) Mostrar la lista de adyacencia del grafo.<br></p>
                 <p>a)Imagen del dibujo de los grafos:<br>
-                <img src="Ejercicio3/Grafo.jpg" alt="Grafo" style="width:50%; height:auto"/><br>
+                <img src="Ejercicio3/Grafo.jpg" alt="Grafo" style="width:100%; height:auto"/><br>
                 b) Imagen de la lista de adyacencia del grafo:<br>
-                <img src="Ejercicio3/ListaAdyacencia1.jpg" alt="ListaAdyacencia1" style="width:25%; height:auto"/><br></p>
+                <img src="Ejercicio3/ListaAdyacencia1.jpg" alt="ListaAdyacencia1" style="width:50%; height:auto"/><br></p>
                 <p>5. Realizar un metodo en la clase Grafo. Este metodo permitira saber si un grafo esta incluido en otro. Los parametros de entrada son 2 grafos y la salida del metodo es true si hay inclusion y false el caso contrario. (4 puntos)<br></p>
                 <p>Se implementó el código en la carpeta Ejercicio4 en la clase Grafo, además se hizo una clase Test la cual pide en consola que ingrese los vértices que van del 1 al 5 y sus respectivos vértices que queramos que sean adyacentes para luego pedirnos que tomemos 2 vértices y comprobemos si uno incluye al otro devolviendonos true y false según corresponda:<br>
                 Imagen referencial de la prueba hecha en la clase Test:<br>
-                <img src="Imagenes/GrafoIncluido.png" alt="GrafoIncluido" style="width:50%; height:auto"/></p>
+                <img src="Imagenes/GrafoIncluido.png" alt="GrafoIncluido" style="width:100%; height:auto"/></p>
             </td>
         </tr>
         <tr>
