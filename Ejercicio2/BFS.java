@@ -13,10 +13,10 @@ public class BFS {
     	Scanner valores = new Scanner(System.in);
     	int tam=0;
     	for (int i=1;i<=5;i++){
-    		System.out.println("Da el numero de vertices adyasentes al vertice "+i+" :");
+    		System.out.println("Da el numero de vertices adyacentes al vertice "+i+" :");
     		tam = valores.nextInt();
     		if(tam!=0 && tam<=5){
-    			System.out.println("Da los vertices adyasentes: ");
+    			System.out.println("Da los vertices adyacentes: ");
     			for(int j=1;j<=tam;j++){
     				int dato=valores.nextInt();
     				A[i][dato]=1;
